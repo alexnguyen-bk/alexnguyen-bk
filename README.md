@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-Name: Thinh Nguyen (Nguyen)
+Name: Thinh Nguyen (Alex)
 Role: Backend Engineer | 3rd Year Software Engineering Student
 Looking for: Internship
 ```
@@ -89,7 +89,7 @@ Looking for: Internship
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex_Nguyen-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexnguyen-milk/)
 [![Gmail](https://img.shields.io/badge/Gmail-thinh.alexnguyenwork-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thinh.alexnguyenwork@gmail.com)
 
-*Open to internship & collaboration opportunities in backend/cloud engineering* 🤝
+*Open to internship & collaboration opportunities in backend engineering* 🤝
 
 </div>
 
